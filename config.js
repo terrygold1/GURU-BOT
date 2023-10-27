@@ -7,14 +7,14 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['6281255369012', 'Ash', true], 
+  ['447482644580', 'Ash', true], 
   [''] '917605902011', 'GURU', true],
   [
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011','32460248586'] 
+global.mods = ['447482644580','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
 global.allowed = ['917605902011', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -52,9 +52,9 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'Terry Bot
 global.author = '@Asliguru' 
-global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
+global.menuvid = 'https://www.youtube.com/watch?v=_VuJA-VQRcY.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
@@ -72,7 +72,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '4' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
